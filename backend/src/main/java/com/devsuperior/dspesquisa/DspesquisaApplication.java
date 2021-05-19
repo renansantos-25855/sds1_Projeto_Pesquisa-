@@ -8,6 +8,8 @@ public class DspesquisaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DspesquisaApplication.class, args);
+		
+		
 	}
 
 }
